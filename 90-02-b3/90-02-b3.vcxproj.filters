@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test_draw_peppapig.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test_hdc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\cmd_console_tools.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\cmd_hdc_tools.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2050249-徐正扬-hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2050249-徐正扬-hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2050265-黄昊-hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2050265-黄昊-hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2051500-杜奇蔚-hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2051500-杜奇蔚-hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2051565-龚天遥-hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2051565-龚天遥-hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2051995-朱泽凯-hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2051995-朱泽凯-hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2052432-孙致远-hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2052432-孙致远-hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2052479-孙颖斌-hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2052479-孙颖斌-hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2053287-陈晗舸-hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2053287-陈晗舸-hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2053394-张弛-hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2053394-张弛-hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2053642-李博宇-hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2053642-李博宇-hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2054100-林志桓-hdc_cartoon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2054100-林志桓-hdc_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="hdc_student_works.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\cmd_console_tools.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\cmd_hdc_tools.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\lib_thdc_tools.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
